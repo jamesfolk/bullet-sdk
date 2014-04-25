@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/Gimpact/btGImpactBvh.cpp \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/Gimpact/btGImpactBvh.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedObjectArray.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btScalar.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/Gimpact/btBoxCollision.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btTransform.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btMatrix3x3.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btMinMax.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuaternion.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuadWord.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/Gimpact/btTriangleShapeEx.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btCollisionShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btTriangleShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btCollisionMargin.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btBoxShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexInternalShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAabbUtil2.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/Gimpact/btClipPolygon.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/Gimpact/btGeometryOperations.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.h

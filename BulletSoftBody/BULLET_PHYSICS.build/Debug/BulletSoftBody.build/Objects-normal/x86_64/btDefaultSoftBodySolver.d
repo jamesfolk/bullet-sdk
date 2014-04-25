@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletSoftBody/btDefaultSoftBodySolver.cpp \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btScalar.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btMinMax.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btTriangleCallback.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConcaveShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btCollisionShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btTransform.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btMatrix3x3.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuaternion.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuadWord.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedObjectArray.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btCollisionObject.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btMotionState.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletSoftBody/btDefaultSoftBodySolver.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodySolvers.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btCapsuleShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexInternalShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexShape.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btCollisionMargin.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAabbUtil2.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletSoftBody/btSoftBody.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btIDebugDraw.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btRigidBody.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletSoftBody/btSparseSDF.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h \
+  /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btDbvt.h

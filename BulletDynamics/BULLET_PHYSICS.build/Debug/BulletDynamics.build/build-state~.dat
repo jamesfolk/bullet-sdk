@@ -1,0 +1,689 @@
+TBulletDynamics
+v5
+r1
+cCheck dependencies
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btKinematicCharacterController.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Character/btKinematicCharacterController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btConeTwistConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btContactConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGearConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofSpringConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHinge2Constraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHingeConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btPoint2PointConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSequentialImpulseConstraintSolver.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSliderConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSolve2LinearConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btTypedConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btUniversalConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btDiscreteDynamicsWorld.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRigidBody.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btRigidBody.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSimpleDynamicsWorld.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/Bullet-C-API.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRaycastVehicle.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btWheelInfo.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btWheelInfo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/libBulletDynamics.a normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Script-93EE46FCB9DF4D4CB9286A1A.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000516D4A3100000000000000AA
+t1366116913
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c00000000510753270000000000004523
+t1359434535
+s17699
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+c000000004FCFFC3E00000000000009FE
+t1339030590
+s2558
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+c000000004D96080C00000000000030CA
+t1301678092
+s12490
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+c00000000505118690000000000004736
+t1347491945
+s18230
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionDispatch/btGhostObject.h
+c000000004C44F74E0000000000001604
+t1279588174
+s5636
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+c000000004FCFFC3E0000000000000C40
+t1339030590
+s3136
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/Bullet-C-API.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/BulletDynamics.LinkFileList
+c000000005179F09A0000000000000D75
+t1366945946
+s3445
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btConeTwistConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btContactConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btDiscreteDynamicsWorld.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGearConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofSpringConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHinge2Constraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHingeConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btKinematicCharacterController.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btPoint2PointConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRaycastVehicle.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRigidBody.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSequentialImpulseConstraintSolver.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSimpleDynamicsWorld.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSliderConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSolve2LinearConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btTypedConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btUniversalConstraint.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btWheelInfo.o
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Script-93EE46FCB9DF4D4CB9286A1A.sh
+c000000005179F09A00000000000000F5
+t1366945946
+s245
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Character/btKinematicCharacterController.cpp
+c00000000504EBFE90000000000004F8A
+t1347338217
+s20362
+i"LinearMath/btIDebugDraw.h"
+i"BulletCollision/CollisionDispatch/btGhostObject.h"
+i"BulletCollision/CollisionShapes/btMultiSphereShape.h"
+i"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+i"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+i"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+i"LinearMath/btDefaultMotionState.h"
+i"btKinematicCharacterController.h"
+i<stdio.h>
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Character/btKinematicCharacterController.h
+c00000000505749E30000000000001724
+t1347897827
+s5924
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp
+c00000000504B9AAA0000000000008D42
+t1347132074
+s36162
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp
+c00000000504EAC2000000000000016B1
+t1347333152
+s5809
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp
+c00000000505260E7000000000000080E
+t1347576039
+s2062
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp
+c00000000504114900000000000007CD8
+t1346442384
+s31960
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp
+c00000000504B9AAA0000000000001606
+t1347132074
+s5638
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp
+c000000004B9273780000000000000C02
+t1267889016
+s3074
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp
+c00000000504B9AAA0000000000007E68
+t1347132074
+s32360
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp
+c00000000504B9AAA00000000000017F6
+t1347132074
+s6134
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp
+c00000000506E72080000000000010DAF
+t1349415432
+s69039
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp
+c000000004B7469000000000000006269
+t1265920256
+s25193
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp
+c000000004934B3340000000000001E24
+t1228190516
+s7716
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp
+c00000000506E7208000000000000166C
+t1349415432
+s5740
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp
+c000000004EE867F40000000000000E8C
+t1323853812
+s3724
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/libBulletDynamics.a
+t2
+s0
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp
+c000000004B2553340000000000003530
+t1260737332
+s13616
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp
+c00000000517002A9000000000000B60C
+t1366295209
+s46604
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btRigidBody.cpp
+c00000000505A8E640000000000003352
+t1348111972
+s13138
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp
+c000000004D0914030000000000001C21
+t1292440579
+s7201
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp
+c000000004FCFFC3E000000000000540A
+t1339030590
+s21514
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btWheelInfo.cpp
+c00000000499C9113000000000000072D
+t1234997523
+s1837
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btDefaultMotionState.h
+c000000004FCFFC3E00000000000004FA
+t1339030590
+s1274
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btIDebugDraw.h
+c00000000504CD0560000000000003DF6
+t1347211350
+s15862
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Character/btKinematicCharacterController.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btRigidBody.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btWheelInfo.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4832471a282ab741^38f3bf1a282ab741^---0#1#0#--18"Check dependencies36"096B0E75-DE47-4A10-A9BB-3A6B069F5F5A-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/Bullet-C-API.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638756.409349
+e388638759.733558
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/Bullet-C-API.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp:24:
+oIn file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/btBulletDynamicsCommon.h:20:
+oIn file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/btBulletCollisionCommon.h:32:
+o/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;
+o                     ^
+o/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;
+o                     ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cppc6f86824282ab741^1edc3929282ab741^-1129"In file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp:24:In file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/btBulletDynamicsCommon.h:20:In file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/btBulletCollisionCommon.h:32:/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;                     ^/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;                     ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@62"'btConvexHullShape::project' hides overloaded virtual function-388638759#18446744073709551615#0#4(2@130"In file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp:24:-388638759#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@120"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp0000000000000000^23#9#23#9#1236#0#30"Apple LLVM compiler 4.2 Notice--2@114"In file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/btBulletDynamicsCommon.h:20:-388638759#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/btBulletDynamicsCommon.h0000000000000000^19#9#19#9#1106#0#30"Apple LLVM compiler 4.2 Notice--2@115"In file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/btBulletCollisionCommon.h:32:-388638759#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@105"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/btBulletCollisionCommon.h0000000000000000^31#9#31#9#1659#0#30"Apple LLVM compiler 4.2 Notice--2@73"Hidden overloaded virtual function 'btConvexShape::project' declared here-388638759#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@127"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexShape.h0000000000000000^54#14#54#14#2228#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@131"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletCollision/CollisionShapes/btConvexHullShape.h0000000000000000^75#14#75#14#2865#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@120"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp0000000000000000^2590"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/Bullet-C-API.o src/BulletDynamics/Dynamics/Bullet-C-API.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/Bullet-C-API.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/Bullet-C-API.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/Bullet-C-API.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/Bullet-C-API.o36"0B369A64-3F30-45DD-A429-ED3454434E46-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btConeTwistConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638747.901190
+e388638749.705233
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btConeTwistConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cppc6dfe61b282ab741^26a9b41d282ab741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp0000000000000000^2660"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btConeTwistConstraint.o src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btConeTwistConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btConeTwistConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btConeTwistConstraint.o36"22BB20D6-9AB6-4512-A50D-AF20B94D46AD-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btContactConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638747.901360
+e388638748.658189
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btContactConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp7ee0e61b282ab741^7d95a81c282ab741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp0000000000000000^2648"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btContactConstraint.o src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btContactConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btContactConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btContactConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btContactConstraint.o36"820090CA-7C7B-4BCC-B49C-2572CFB62F8E-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btDiscreteDynamicsWorld.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638754.797925
+e388638756.407737
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btDiscreteDynamicsWorld.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cppf984cc22282ab741^a3933929282ab741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp0000000000000000^2656"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btDiscreteDynamicsWorld.o src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btDiscreteDynamicsWorld.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btDiscreteDynamicsWorld.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btDiscreteDynamicsWorld.o36"7FDA9AA5-1CAE-4C7B-B043-F941C10AC392-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGearConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638748.659582
+e388638749.007042
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGearConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp8104a91c282ab741^11df011d282ab741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp0000000000000000^2630"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGearConstraint.o src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGearConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGearConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGearConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGearConstraint.o36"646318FE-0EE7-453C-A62F-C04E850910DA-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638749.008503
+e388638750.175869
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp785e021d282ab741^6e30301e282ab741^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp0000000000000000^2672"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofConstraint.o src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofConstraint.o36"8705AB4D-24AB-4B78-A5EF-BA8E41B91DB9-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofSpringConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638749.706631
+e388638750.451340
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofSpringConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cppd713b51d282ab741^e813751e282ab741^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp0000000000000000^2708"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofSpringConstraint.o src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofSpringConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofSpringConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btGeneric6DofSpringConstraint.o36"5CA4987F-D548-4F6D-A73A-410F22F5430F-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHinge2Constraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638750.224980
+e388638750.746082
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHinge2Constraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cppe17f3b1e282ab741^fd14bf1e282ab741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp0000000000000000^2642"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHinge2Constraint.o src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHinge2Constraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHinge2Constraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHinge2Constraint.o36"41B9D141-AA7D-4221-AD08-4499CBD4170B-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHingeConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638750.452821
+e388638751.748158
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHingeConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp8318741e282ab741^c9abbf1f282ab741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp0000000000000000^2636"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHingeConstraint.o src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHingeConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHingeConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btHingeConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btHingeConstraint.o36"A55F0432-8772-41D5-9077-435DBF4E4322-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btKinematicCharacterController.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Character/btKinematicCharacterController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638746.819787
+e388638747.898830
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btKinematicCharacterController.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Character/btKinematicCharacterController.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Character/btKinematicCharacterController.cpp8d08d21a282ab741^162fe61b282ab741^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Character/btKinematicCharacterController.cpp0000000000000000^2700"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btKinematicCharacterController.o src/BulletDynamics/Character/btKinematicCharacterController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btKinematicCharacterController.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btKinematicCharacterController.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Character/btKinematicCharacterController.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btKinematicCharacterController.o36"0805FEEA-3ABD-40DD-86DE-E26B2BB39F18-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btPoint2PointConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638750.747481
+e388638751.262535
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btPoint2PointConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp4d86bf1e282ab741^a434431f282ab741^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp0000000000000000^2672"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btPoint2PointConstraint.o src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btPoint2PointConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btPoint2PointConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btPoint2PointConstraint.o36"37DF354C-0A9B-4EF3-9946-EEE376F624A0-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRaycastVehicle.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638757.479626
+e388638758.768150
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRaycastVehicle.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp:13:
+o/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.h:61:11: warning: private field 'm_tau' is not used [-Wunused-private-field]
+o        btScalar        m_tau;
+o                        ^
+o/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.h:62:11: warning: private field 'm_damping' is not used [-Wunused-private-field]
+o        btScalar        m_damping;
+o                        ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cppc40a7b25282ab741^3db63929282ab741^-640"In file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp:13:/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.h:61:11: warning: private field 'm_tau' is not used [-Wunused-private-field]        btScalar        m_tau;                        ^/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.h:62:11: warning: private field 'm_damping' is not used [-Wunused-private-field]        btScalar        m_damping;                        ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@33"Private field 'm_tau' is not used-388638758#18446744073709551615#0#1(2@133"In file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp:13:-388638758#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@123"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp0000000000000000^12#9#12#9#501#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@121"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.h0000000000000000^60#10#60#10#1801#0#19"Unused Entity Issue--2@37"Private field 'm_damping' is not used-388638758#18446744073709551615#0#1(2@133"In file included from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp:13:-388638758#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@123"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp0000000000000000^12#9#12#9#501#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@121"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.h0000000000000000^61#10#61#10#1818#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@123"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp0000000000000000^2612"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRaycastVehicle.o src/BulletDynamics/Vehicle/btRaycastVehicle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRaycastVehicle.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRaycastVehicle.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRaycastVehicle.o36"FF352E74-3D42-4F7E-9531-19E76FA021B9-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRigidBody.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btRigidBody.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638754.948341
+e388638756.124148
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRigidBody.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btRigidBody.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btRigidBody.cppbff4f222282ab741^618b3929282ab741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btRigidBody.cpp0000000000000000^2584"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRigidBody.o src/BulletDynamics/Dynamics/btRigidBody.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRigidBody.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRigidBody.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btRigidBody.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btRigidBody.o36"1DE7F13F-EC7D-47B2-B39C-520800E8359C-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSequentialImpulseConstraintSolver.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638751.263960
+e388638753.722647
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSequentialImpulseConstraintSolver.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp4dc0431f282ab741^4f913729282ab741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp0000000000000000^2744"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSequentialImpulseConstraintSolver.o src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSequentialImpulseConstraintSolver.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSequentialImpulseConstraintSolver.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSequentialImpulseConstraintSolver.o36"70C8E62B-5303-478F-B08E-60EE8584CDB7-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSimpleDynamicsWorld.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638756.125706
+e388638757.477316
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSimpleDynamicsWorld.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp7d5b2024282ab741^629e3929282ab741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp0000000000000000^2644"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSimpleDynamicsWorld.o src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSimpleDynamicsWorld.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSimpleDynamicsWorld.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSimpleDynamicsWorld.o36"F950E7B2-E231-4EC2-B944-9B3C41FCC4E7-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSliderConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638751.749552
+e388638753.300156
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSliderConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cppc80cc01f282ab741^95813729282ab741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp0000000000000000^2642"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSliderConstraint.o src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSliderConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSliderConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSliderConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSliderConstraint.o36"7CEF630F-B6DF-4B3E-AB3C-41F19E972265-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSolve2LinearConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638753.301806
+e388638754.009730
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSolve2LinearConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp93704d21282ab741^8d963729282ab741^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp0000000000000000^2678"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSolve2LinearConstraint.o src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSolve2LinearConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSolve2LinearConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btSolve2LinearConstraint.o36"F43973C3-1F3F-4288-8530-9FE4BBF014F6-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btTypedConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638753.724212
+e388638754.796386
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btTypedConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp8692b921282ab741^8a763929282ab741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp0000000000000000^2636"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btTypedConstraint.o src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btTypedConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btTypedConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btTypedConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btTypedConstraint.o36"BE84AEEF-AC69-4127-8C15-4E0A0B8FFF0E-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btUniversalConstraint.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638754.012157
+e388638754.946415
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btUniversalConstraint.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp78460322282ab741^88823929282ab741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp0000000000000000^2660"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btUniversalConstraint.o src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btUniversalConstraint.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btUniversalConstraint.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btUniversalConstraint.o36"6B23E169-10BC-4EF2-8B34-AE999ABD9F19-
+
+CCompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btWheelInfo.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btWheelInfo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638758.769574
+e388638759.117822
+r1
+xCompileC
+xsrc/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btWheelInfo.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btWheelInfo.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btWheelInfo.cpp382cc526282ab741^1bba3929282ab741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btWheelInfo.cpp0000000000000000^2582"CompileC src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btWheelInfo.o src/BulletDynamics/Vehicle/btWheelInfo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btWheelInfo.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btWheelInfo.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Vehicle/btWheelInfo.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/btWheelInfo.o36"38602E57-B66E-44AC-B481-BCB01D1966F9-
+
+CLibtool /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/libBulletDynamics.a normal x86_64
+s388638760.011045
+e388638763.410126
+r1
+xLibtool
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/libBulletDynamics.a
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool src/BulletDynamics/Debug/libBulletDynamics.a normal x86_64edf10228282ab741^7b16382d282ab741^---0#0#0#--793"Libtool src/BulletDynamics/Debug/libBulletDynamics.a normal x86_64    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug -filelist /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Objects-normal/x86_64/BulletDynamics.LinkFileList -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/Debug/libBulletDynamics.a36"D737EB65-80DB-49E4-A8AD-0FE4E56719BA-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Script-93EE46FCB9DF4D4CB9286A1A.sh
+s388638811.189958
+e388638811.562405
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Script-93EE46FCB9DF4D4CB9286A1A.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 && make -C /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.BulletDynamics.Debug
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/HelloWorld/Debug/AppHelloWorld
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiThreadedDemo/Debug/AppMultiThreadedDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/AllBulletDemos/Debug/AppAllBulletDemos
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConvexDecompositionDemo/Debug/AppConvexDecompositionDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CcdPhysicsDemo/Debug/AppCcdPhysicsDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BulletXmlImportDemo/Debug/AppBulletXmlImportDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConstraintDemo/Debug/AppConstraintDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SliderConstraintDemo/Debug/AppSliderConstraintDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GenericJointDemo/Debug/AppGenericJointDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Raytracer/Debug/AppRaytracer
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RagdollDemo/Debug/AppRagdollDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ForkLiftDemo/Debug/AppForkLiftDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BasicDemo/Debug/AppBasicDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RollingFrictionDemo/Debug/AppRollingFrictionDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RaytestDemo/Debug/AppRaytestDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VoronoiFractureDemo/Debug/AppVoronoiFractureDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GyroscopicDemo/Debug/AppGyroscopicDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/FractureDemo/Debug/AppFractureDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Box2dDemo/Debug/AppBox2dDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BspDemo/Debug/AppBspPhysicsDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MovingConcaveDemo/Debug/AppMovingConcaveDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VehicleDemo/Debug/AppVehicleDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/UserCollisionAlgorithm/Debug/AppUserCollisionAlgorithm
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CharacterDemo/Debug/AppCharacterDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SoftDemo/Debug/AppSoftBodyDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionInterfaceDemo/Debug/AppCollisionInterfaceDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveConvexcastDemo/Debug/AppConcaveConvexCastDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SimplexDemo/Debug/AppSimplexDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DynamicControlDemo/Debug/AppMotorDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConvexHullDistance/Debug/AppConvexHullDistanceDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DoublePrecisionDemo/Debug/AppDoublePrecisionDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveDemo/Debug/AppConcaveDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionDemo/Debug/AppCollisionDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ContinuousConvexCollision/Debug/AppContinuousConvexCollisionDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveRaycastDemo/Debug/AppConcaveRayCastDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GjkConvexCastDemo/Debug/AppLinearConvexCastDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiMaterialDemo/Debug/AppMultiMaterialDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SerializeDemo/Debug/AppSerializeDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/InternalEdgeDemo/Debug/AppInternalEdgeDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Benchmarks/Debug/AppBenchmarks
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ThreadingDemo/Debug/AppThreadingDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/MiniCL/Debug/AppParticlesOCL_Mini
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/Apple/Debug/AppParticlesOCL_Apple
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/MiniCL/Debug/AppOpenCLClothDemo_Mini
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'1bba315b282ab741^8cf78f5b282ab741^-5678"echo "Depend check for xcode"Depend check for xcodecd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 && make -C /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.BulletDynamics.Debug/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/HelloWorld/Debug/AppHelloWorld/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiThreadedDemo/Debug/AppMultiThreadedDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/AllBulletDemos/Debug/AppAllBulletDemos/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConvexDecompositionDemo/Debug/AppConvexDecompositionDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CcdPhysicsDemo/Debug/AppCcdPhysicsDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BulletXmlImportDemo/Debug/AppBulletXmlImportDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConstraintDemo/Debug/AppConstraintDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SliderConstraintDemo/Debug/AppSliderConstraintDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GenericJointDemo/Debug/AppGenericJointDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Raytracer/Debug/AppRaytracer/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RagdollDemo/Debug/AppRagdollDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ForkLiftDemo/Debug/AppForkLiftDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BasicDemo/Debug/AppBasicDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RollingFrictionDemo/Debug/AppRollingFrictionDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RaytestDemo/Debug/AppRaytestDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VoronoiFractureDemo/Debug/AppVoronoiFractureDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GyroscopicDemo/Debug/AppGyroscopicDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/FractureDemo/Debug/AppFractureDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Box2dDemo/Debug/AppBox2dDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BspDemo/Debug/AppBspPhysicsDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MovingConcaveDemo/Debug/AppMovingConcaveDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VehicleDemo/Debug/AppVehicleDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/UserCollisionAlgorithm/Debug/AppUserCollisionAlgorithm/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CharacterDemo/Debug/AppCharacterDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SoftDemo/Debug/AppSoftBodyDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionInterfaceDemo/Debug/AppCollisionInterfaceDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveConvexcastDemo/Debug/AppConcaveConvexCastDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SimplexDemo/Debug/AppSimplexDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DynamicControlDemo/Debug/AppMotorDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConvexHullDistance/Debug/AppConvexHullDistanceDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DoublePrecisionDemo/Debug/AppDoublePrecisionDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveDemo/Debug/AppConcaveDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionDemo/Debug/AppCollisionDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ContinuousConvexCollision/Debug/AppContinuousConvexCollisionDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveRaycastDemo/Debug/AppConcaveRayCastDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GjkConvexCastDemo/Debug/AppLinearConvexCastDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiMaterialDemo/Debug/AppMultiMaterialDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SerializeDemo/Debug/AppSerializeDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/InternalEdgeDemo/Debug/AppInternalEdgeDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Benchmarks/Debug/AppBenchmarks/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ThreadingDemo/Debug/AppThreadingDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/MiniCL/Debug/AppParticlesOCL_Mini/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/Apple/Debug/AppParticlesOCL_Apple/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/MiniCL/Debug/AppOpenCLClothDemo_Mini/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple48(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-388638811#0#30#-0#-----2@23"Depend check for xcode-388638811#30#23#-0#-----2@266"cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 && make -C /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.BulletDynamics.Debug-388638811#53#266#-0#-----2@108"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/HelloWorld/Debug/AppHelloWorld-388638811#319#108#-0#-----2@122"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiThreadedDemo/Debug/AppMultiThreadedDemo-388638811#427#122#-0#-----2@116"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/AllBulletDemos/Debug/AppAllBulletDemos-388638811#549#116#-0#-----2@134"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConvexDecompositionDemo/Debug/AppConvexDecompositionDemo-388638811#665#134#-0#-----2@116"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CcdPhysicsDemo/Debug/AppCcdPhysicsDemo-388638811#799#116#-0#-----2@126"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BulletXmlImportDemo/Debug/AppBulletXmlImportDemo-388638811#915#126#-0#-----2@116"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConstraintDemo/Debug/AppConstraintDemo-388638811#1041#116#-0#-----2@128"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SliderConstraintDemo/Debug/AppSliderConstraintDemo-388638811#1157#128#-0#-----2@120"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GenericJointDemo/Debug/AppGenericJointDemo-388638811#1285#120#-0#-----2@106"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Raytracer/Debug/AppRaytracer-388638811#1405#106#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RagdollDemo/Debug/AppRagdollDemo-388638811#1511#110#-0#-----2@112"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ForkLiftDemo/Debug/AppForkLiftDemo-388638811#1621#112#-0#-----2@106"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BasicDemo/Debug/AppBasicDemo-388638811#1733#106#-0#-----2@126"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RollingFrictionDemo/Debug/AppRollingFrictionDemo-388638811#1839#126#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RaytestDemo/Debug/AppRaytestDemo-388638811#1965#110#-0#-----2@126"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VoronoiFractureDemo/Debug/AppVoronoiFractureDemo-388638811#2075#126#-0#-----2@116"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GyroscopicDemo/Debug/AppGyroscopicDemo-388638811#2201#116#-0#-----2@112"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/FractureDemo/Debug/AppFractureDemo-388638811#2317#112#-0#-----2@106"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Box2dDemo/Debug/AppBox2dDemo-388638811#2429#106#-0#-----2@109"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BspDemo/Debug/AppBspPhysicsDemo-388638811#2535#109#-0#-----2@122"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MovingConcaveDemo/Debug/AppMovingConcaveDemo-388638811#2644#122#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VehicleDemo/Debug/AppVehicleDemo-388638811#2766#110#-0#-----2@132"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/UserCollisionAlgorithm/Debug/AppUserCollisionAlgorithm-388638811#2876#132#-0#-----2@114"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CharacterDemo/Debug/AppCharacterDemo-388638811#3008#114#-0#-----2@108"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SoftDemo/Debug/AppSoftBodyDemo-388638811#3122#108#-0#-----2@132"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionInterfaceDemo/Debug/AppCollisionInterfaceDemo-388638811#3230#132#-0#-----2@130"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveConvexcastDemo/Debug/AppConcaveConvexCastDemo-388638811#3362#130#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SimplexDemo/Debug/AppSimplexDemo-388638811#3492#110#-0#-----2@115"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DynamicControlDemo/Debug/AppMotorDemo-388638811#3602#115#-0#-----2@128"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConvexHullDistance/Debug/AppConvexHullDistanceDemo-388638811#3717#128#-0#-----2@126"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DoublePrecisionDemo/Debug/AppDoublePrecisionDemo-388638811#3845#126#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveDemo/Debug/AppConcaveDemo-388638811#3971#110#-0#-----2@114"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionDemo/Debug/AppCollisionDemo-388638811#4081#114#-0#-----2@142"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ContinuousConvexCollision/Debug/AppContinuousConvexCollisionDemo-388638811#4195#142#-0#-----2@124"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveRaycastDemo/Debug/AppConcaveRayCastDemo-388638811#4337#124#-0#-----2@125"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GjkConvexCastDemo/Debug/AppLinearConvexCastDemo-388638811#4461#125#-0#-----2@122"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiMaterialDemo/Debug/AppMultiMaterialDemo-388638811#4586#122#-0#-----2@114"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SerializeDemo/Debug/AppSerializeDemo-388638811#4708#114#-0#-----2@120"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/InternalEdgeDemo/Debug/AppInternalEdgeDemo-388638811#4822#120#-0#-----2@108"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Benchmarks/Debug/AppBenchmarks-388638811#4942#108#-0#-----2@114"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ThreadingDemo/Debug/AppThreadingDemo-388638811#5050#114#-0#-----2@127"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/MiniCL/Debug/AppParticlesOCL_Mini-388638811#5164#127#-0#-----2@127"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/Apple/Debug/AppParticlesOCL_Apple-388638811#5291#127#-0#-----2@130"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/MiniCL/Debug/AppOpenCLClothDemo_Mini-388638811#5418#130#-0#-----2@130"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple-388638811#5548#130#-0#-----0#0#0#--391"PhaseScriptExecution "CMake PostBuild Rules" src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Script-93EE46FCB9DF4D4CB9286A1A.sh    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    /bin/sh -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/BulletDynamics/BULLET_PHYSICS.build/Debug/BulletDynamics.build/Script-93EE46FCB9DF4D4CB9286A1A.sh36"446AD8D5-E7F7-40F5-ABCF-06D4E0184C31-
+

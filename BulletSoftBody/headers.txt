@@ -1,0 +1,13 @@
+-rw-rw-rw-  1 jamesfolk  staff   2199 Jun  6  2012 btDefaultSoftBodySolver.h
+-rw-rw-rw-  1 jamesfolk  staff  30774 Sep  9  2012 btSoftBody.h
+-rw-rw-rw-  1 jamesfolk  staff   5591 Jun  6  2012 btSoftBodyConcaveCollisionAlgorithm.h
+-rw-rw-rw-  1 jamesfolk  staff   6824 Jul 24  2012 btSoftBodyData.h
+-rw-rw-rw-  1 jamesfolk  staff   4583 Apr  1  2011 btSoftBodyHelpers.h
+-rw-rw-rw-  1 jamesfolk  staff  24542 Sep  9  2012 btSoftBodyInternals.h
+-rw-rw-rw-  1 jamesfolk  staff   2266 Feb 18  2009 btSoftBodyRigidBodyCollisionConfiguration.h
+-rw-rw-rw-  1 jamesfolk  staff   3809 Jun  6  2012 btSoftBodySolverVertexBuffer.h
+-rw-rw-rw-  1 jamesfolk  staff   4474 Jun  6  2012 btSoftBodySolvers.h
+-rw-rw-rw-  1 jamesfolk  staff   3130 Jun  6  2012 btSoftRigidCollisionAlgorithm.h
+-rw-rw-rw-  1 jamesfolk  staff   3739 Apr  7  2011 btSoftRigidDynamicsWorld.h
+-rw-rw-rw-  1 jamesfolk  staff   2943 Jun  6  2012 btSoftSoftCollisionAlgorithm.h
+-rw-rw-rw-  1 jamesfolk  staff   6952 Jun  6  2012 btSparseSDF.h

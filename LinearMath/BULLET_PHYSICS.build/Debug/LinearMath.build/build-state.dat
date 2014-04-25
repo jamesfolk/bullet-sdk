@@ -1,0 +1,384 @@
+TLinearMath
+v5
+r1
+cCheck dependencies
+cCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHull.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHullComputer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btPolarDecomposition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btSerializer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/libLinearMath.a normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Script-0DFC18D02D4743BCAD7C1F4D.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000516D4A3100000000000000AA
+t1366116913
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c00000000510753270000000000004523
+t1359434535
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdlib.h
+c00000000510753270000000000003089
+t1359434535
+s12425
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/LinearMath.LinkFileList
+c000000005179F0E500000000000004F4
+t1366946021
+s1268
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o
+t1366946022
+s9816
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o
+t1366946022
+s273268
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o
+t1366946024
+s282616
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o
+t1366946024
+s46488
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o
+t1373076163
+s60592
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o
+t1366946025
+s35752
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o
+t1366946025
+s20836
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o
+t1366946025
+s29724
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Script-0DFC18D02D4743BCAD7C1F4D.sh
+c000000005179F0E500000000000000E9
+t1366946021
+s233
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/libLinearMath.a
+t1373076164
+s778936
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.cpp
+c000000004FCFFC3E000000000000113A
+t1339030590
+s4410
+i"btAlignedAllocator.h"
+i<malloc.h>
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.h
+c00000000499C9113000000000000114F
+t1234997523
+s4431
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedObjectArray.h
+c000000004FCFFC3E0000000000002BCB
+t1339030590
+s11211
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHull.cpp
+c00000000504B9AAA0000000000006E5D
+t1347132074
+s28253
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHull.h
+c000000004D96080C0000000000001D20
+t1301678092
+s7456
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHullComputer.cpp
+c000000004FCFFC3E000000000000DFAD
+t1339030590
+s57261
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHullComputer.h
+c000000004FCFFC3E0000000000000DA6
+t1339030590
+s3494
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.cpp
+c00000000499C911300000000000013EE
+t1234997523
+s5102
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.h
+c00000000499C9113000000000000075E
+t1234997523
+s1886
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btMatrix3x3.h
+c0000000051A96487000000000000AB88
+t1370055815
+s43912
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btMinMax.h
+c000000004EE6324700000000000006C6
+t1323708999
+s1734
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btPolarDecomposition.cpp
+c00000000504CD0560000000000000A63
+t1347211350
+s2659
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btPolarDecomposition.h
+c00000000504CD0560000000000000A2D
+t1347211350
+s2605
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuadWord.h
+c000000004FCFFC3E0000000000001C89
+t1339030590
+s7305
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuaternion.h
+c0000000050439D560000000000006A53
+t1346608470
+s27219
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.cpp
+c000000004E5C58E00000000000004100
+t1314674912
+s16640
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.h
+c000000004E5C58E00000000000001410
+t1314674912
+s5136
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btScalar.h
+c000000005141CAAC0000000000004EBC
+t1363266220
+s20156
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btSerializer.cpp
+c00000000505CFA340000000000029360
+t1348270644
+s168800
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.cpp
+c000000005138BF690000000000010CD0
+t1362673513
+s68816
+
+N/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.h
+c00000000505749E3000000000000995B
+t1347897827
+s39259
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHull.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHullComputer.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btPolarDecomposition.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btSerializer.cpp
+r0
+
+CBuild AST from /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesad503096fb89b741^f1484896fb89b741^---0#1#0#--18"Check dependencies36"1961B198-20D2-4A0B-865E-0F8EC340629D-
+
+CCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638821.869684
+e388638822.116476
+r1
+xCompileC
+xsrc/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.cpp39d1de65282ab741^ffcf1d66282ab741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.cpp0000000000000000^2544"CompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o src/LinearMath/btAlignedAllocator.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btAlignedAllocator.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o36"EBB37562-D9CF-4577-A807-82E1AB2A7633-
+
+CCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHull.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638822.117878
+e388638823.021013
+r1
+xCompileC
+xsrc/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHull.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHull.cpp815c1e66282ab741^6b620567282ab741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHull.cpp0000000000000000^2508"CompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o src/LinearMath/btConvexHull.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHull.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o36"D86D251B-10F1-4DC6-86EB-E49909A8618F-
+
+CCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHullComputer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638823.022559
+e388638824.121308
+r1
+xCompileC
+xsrc/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHullComputer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHullComputer.cppedf20567282ab741^38304168282ab741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHullComputer.cpp0000000000000000^2556"CompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o src/LinearMath/btConvexHullComputer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btConvexHullComputer.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o36"4F175BC6-AB41-46F8-AF98-F2755742B024-
+
+CCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638824.057241
+e388638824.661301
+r1
+xCompileC
+xsrc/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.cpp9ad20e68282ab741^0a6ad868282ab741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.cpp0000000000000000^2520"CompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o src/LinearMath/btGeometryUtil.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btGeometryUtil.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o36"CE104BD0-BE32-49DB-9A42-4FAC4823F70A-
+
+CCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btPolarDecomposition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s394768963.331503
+e394768963.640738
+r1
+xCompileC
+xsrc/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btPolarDecomposition.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btPolarDecomposition.cpp10075543b287b741^8e06a443b287b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btPolarDecomposition.cpp0000000000000000^2556"CompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o src/LinearMath/btPolarDecomposition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btPolarDecomposition.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o36"288982B5-C6BC-4046-9399-D5116BE886C3-
+
+CCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638824.662721
+e388638825.170142
+r1
+xCompileC
+xsrc/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.cppd4d5a968282ab741^eca32b69282ab741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.cpp0000000000000000^2502"CompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o src/LinearMath/btQuickprof.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btQuickprof.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o36"AB627FB0-2F47-4021-A7AD-3733455010A3-
+
+CCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btSerializer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638824.912044
+e388638825.463328
+r1
+xCompileC
+xsrc/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btSerializer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btSerializer.cppc6a6e968282ab741^b3b57669282ab741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btSerializer.cpp0000000000000000^2508"CompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o src/LinearMath/btSerializer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btSerializer.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o36"1C4E2B85-969B-49A4-9942-B0E1AABC69E4-
+
+CCompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388638825.171498
+e388638825.772454
+r1
+xCompileC
+xsrc/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.cppb20d2c69282ab741^91bac569282ab741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.cpp0000000000000000^2490"CompileC src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o src/LinearMath/btVector3.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions "-DCMAKE_INTDIR=\"Debug\"" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/include -I/usr/local/include -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.d --serialize-diagnostics /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.dia -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/btVector3.cpp -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o36"EB86239A-6F72-4500-9049-46D028D215A8-
+
+CLibtool /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/libLinearMath.a normal x86_64
+s394768963.714608
+e394768964.129877
+r1
+xLibtool
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/libLinearMath.a
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Libtool src/LinearMath/Debug/libLinearMath.a normal x86_64280fb743b287b741^3e3e2144b287b741^---0#0#0#--761"Libtool src/LinearMath/Debug/libLinearMath.a normal x86_64    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug -filelist /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/LinearMath.LinkFileList -o /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/Debug/libLinearMath.a36"0844AB0B-3546-4EBF-AD22-DF1C53EE3ACB-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Script-0DFC18D02D4743BCAD7C1F4D.sh
+s394918806.314035
+e394918806.616029
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Script-0DFC18D02D4743BCAD7C1F4D.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 && make -C /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.LinearMath.Debug
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/HelloWorld/Debug/AppHelloWorld
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiThreadedDemo/Debug/AppMultiThreadedDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/AllBulletDemos/Debug/AppAllBulletDemos
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CcdPhysicsDemo/Debug/AppCcdPhysicsDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BulletXmlImportDemo/Debug/AppBulletXmlImportDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConstraintDemo/Debug/AppConstraintDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SliderConstraintDemo/Debug/AppSliderConstraintDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GenericJointDemo/Debug/AppGenericJointDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Raytracer/Debug/AppRaytracer
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RagdollDemo/Debug/AppRagdollDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ForkLiftDemo/Debug/AppForkLiftDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BasicDemo/Debug/AppBasicDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RollingFrictionDemo/Debug/AppRollingFrictionDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RaytestDemo/Debug/AppRaytestDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VoronoiFractureDemo/Debug/AppVoronoiFractureDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GyroscopicDemo/Debug/AppGyroscopicDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/FractureDemo/Debug/AppFractureDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Box2dDemo/Debug/AppBox2dDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BspDemo/Debug/AppBspPhysicsDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MovingConcaveDemo/Debug/AppMovingConcaveDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VehicleDemo/Debug/AppVehicleDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/UserCollisionAlgorithm/Debug/AppUserCollisionAlgorithm
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CharacterDemo/Debug/AppCharacterDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionInterfaceDemo/Debug/AppCollisionInterfaceDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveConvexcastDemo/Debug/AppConcaveConvexCastDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SimplexDemo/Debug/AppSimplexDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DynamicControlDemo/Debug/AppMotorDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConvexHullDistance/Debug/AppConvexHullDistanceDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DoublePrecisionDemo/Debug/AppDoublePrecisionDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveDemo/Debug/AppConcaveDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionDemo/Debug/AppCollisionDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ContinuousConvexCollision/Debug/AppContinuousConvexCollisionDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveRaycastDemo/Debug/AppConcaveRayCastDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GjkConvexCastDemo/Debug/AppLinearConvexCastDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiMaterialDemo/Debug/AppMultiMaterialDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SerializeDemo/Debug/AppSerializeDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/InternalEdgeDemo/Debug/AppInternalEdgeDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Benchmarks/Debug/AppBenchmarks
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ThreadingDemo/Debug/AppThreadingDemo
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/MiniCL/Debug/AppParticlesOCL_Mini
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/Apple/Debug/AppParticlesOCL_Apple
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/MiniCL/Debug/AppOpenCLClothDemo_Mini
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VectorAdd_OpenCL/MiniCL/Debug/AppVectorAdd_Mini
+o/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VectorAdd_OpenCL/Apple/Debug/AppVectorAdd_Apple
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'25215196fb89b741^4cc69d96fb89b741^-5682"echo "Depend check for xcode"Depend check for xcodecd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 && make -C /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.LinearMath.Debug/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/HelloWorld/Debug/AppHelloWorld/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiThreadedDemo/Debug/AppMultiThreadedDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/AllBulletDemos/Debug/AppAllBulletDemos/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CcdPhysicsDemo/Debug/AppCcdPhysicsDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BulletXmlImportDemo/Debug/AppBulletXmlImportDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConstraintDemo/Debug/AppConstraintDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SliderConstraintDemo/Debug/AppSliderConstraintDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GenericJointDemo/Debug/AppGenericJointDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Raytracer/Debug/AppRaytracer/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RagdollDemo/Debug/AppRagdollDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ForkLiftDemo/Debug/AppForkLiftDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BasicDemo/Debug/AppBasicDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RollingFrictionDemo/Debug/AppRollingFrictionDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RaytestDemo/Debug/AppRaytestDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VoronoiFractureDemo/Debug/AppVoronoiFractureDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GyroscopicDemo/Debug/AppGyroscopicDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/FractureDemo/Debug/AppFractureDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Box2dDemo/Debug/AppBox2dDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BspDemo/Debug/AppBspPhysicsDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MovingConcaveDemo/Debug/AppMovingConcaveDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VehicleDemo/Debug/AppVehicleDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/UserCollisionAlgorithm/Debug/AppUserCollisionAlgorithm/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CharacterDemo/Debug/AppCharacterDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionInterfaceDemo/Debug/AppCollisionInterfaceDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveConvexcastDemo/Debug/AppConcaveConvexCastDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SimplexDemo/Debug/AppSimplexDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DynamicControlDemo/Debug/AppMotorDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConvexHullDistance/Debug/AppConvexHullDistanceDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DoublePrecisionDemo/Debug/AppDoublePrecisionDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveDemo/Debug/AppConcaveDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionDemo/Debug/AppCollisionDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ContinuousConvexCollision/Debug/AppContinuousConvexCollisionDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveRaycastDemo/Debug/AppConcaveRayCastDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GjkConvexCastDemo/Debug/AppLinearConvexCastDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiMaterialDemo/Debug/AppMultiMaterialDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SerializeDemo/Debug/AppSerializeDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/InternalEdgeDemo/Debug/AppInternalEdgeDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Benchmarks/Debug/AppBenchmarks/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ThreadingDemo/Debug/AppThreadingDemo/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/MiniCL/Debug/AppParticlesOCL_Mini/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/Apple/Debug/AppParticlesOCL_Apple/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/MiniCL/Debug/AppOpenCLClothDemo_Mini/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VectorAdd_OpenCL/MiniCL/Debug/AppVectorAdd_Mini/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VectorAdd_OpenCL/Apple/Debug/AppVectorAdd_Apple48(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-394918806#0#30#-0#-----2@23"Depend check for xcode-394918806#30#23#-0#-----2@262"cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 && make -C /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613 -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.LinearMath.Debug-394918806#53#262#-0#-----2@108"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/HelloWorld/Debug/AppHelloWorld-394918806#315#108#-0#-----2@122"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiThreadedDemo/Debug/AppMultiThreadedDemo-394918806#423#122#-0#-----2@116"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/AllBulletDemos/Debug/AppAllBulletDemos-394918806#545#116#-0#-----2@116"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CcdPhysicsDemo/Debug/AppCcdPhysicsDemo-394918806#661#116#-0#-----2@126"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BulletXmlImportDemo/Debug/AppBulletXmlImportDemo-394918806#777#126#-0#-----2@116"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConstraintDemo/Debug/AppConstraintDemo-394918806#903#116#-0#-----2@128"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SliderConstraintDemo/Debug/AppSliderConstraintDemo-394918806#1019#128#-0#-----2@120"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GenericJointDemo/Debug/AppGenericJointDemo-394918806#1147#120#-0#-----2@106"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Raytracer/Debug/AppRaytracer-394918806#1267#106#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RagdollDemo/Debug/AppRagdollDemo-394918806#1373#110#-0#-----2@112"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ForkLiftDemo/Debug/AppForkLiftDemo-394918806#1483#112#-0#-----2@106"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BasicDemo/Debug/AppBasicDemo-394918806#1595#106#-0#-----2@126"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RollingFrictionDemo/Debug/AppRollingFrictionDemo-394918806#1701#126#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/RaytestDemo/Debug/AppRaytestDemo-394918806#1827#110#-0#-----2@126"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VoronoiFractureDemo/Debug/AppVoronoiFractureDemo-394918806#1937#126#-0#-----2@116"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GyroscopicDemo/Debug/AppGyroscopicDemo-394918806#2063#116#-0#-----2@112"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/FractureDemo/Debug/AppFractureDemo-394918806#2179#112#-0#-----2@106"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Box2dDemo/Debug/AppBox2dDemo-394918806#2291#106#-0#-----2@109"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/BspDemo/Debug/AppBspPhysicsDemo-394918806#2397#109#-0#-----2@122"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MovingConcaveDemo/Debug/AppMovingConcaveDemo-394918806#2506#122#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VehicleDemo/Debug/AppVehicleDemo-394918806#2628#110#-0#-----2@132"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/UserCollisionAlgorithm/Debug/AppUserCollisionAlgorithm-394918806#2738#132#-0#-----2@114"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CharacterDemo/Debug/AppCharacterDemo-394918806#2870#114#-0#-----2@132"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionInterfaceDemo/Debug/AppCollisionInterfaceDemo-394918806#2984#132#-0#-----2@130"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveConvexcastDemo/Debug/AppConcaveConvexCastDemo-394918806#3116#130#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SimplexDemo/Debug/AppSimplexDemo-394918806#3246#110#-0#-----2@115"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DynamicControlDemo/Debug/AppMotorDemo-394918806#3356#115#-0#-----2@128"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConvexHullDistance/Debug/AppConvexHullDistanceDemo-394918806#3471#128#-0#-----2@126"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/DoublePrecisionDemo/Debug/AppDoublePrecisionDemo-394918806#3599#126#-0#-----2@110"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveDemo/Debug/AppConcaveDemo-394918806#3725#110#-0#-----2@114"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/CollisionDemo/Debug/AppCollisionDemo-394918806#3835#114#-0#-----2@142"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ContinuousConvexCollision/Debug/AppContinuousConvexCollisionDemo-394918806#3949#142#-0#-----2@124"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ConcaveRaycastDemo/Debug/AppConcaveRayCastDemo-394918806#4091#124#-0#-----2@125"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/GjkConvexCastDemo/Debug/AppLinearConvexCastDemo-394918806#4215#125#-0#-----2@122"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/MultiMaterialDemo/Debug/AppMultiMaterialDemo-394918806#4340#122#-0#-----2@114"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/SerializeDemo/Debug/AppSerializeDemo-394918806#4462#114#-0#-----2@120"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/InternalEdgeDemo/Debug/AppInternalEdgeDemo-394918806#4576#120#-0#-----2@108"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/Benchmarks/Debug/AppBenchmarks-394918806#4696#108#-0#-----2@114"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ThreadingDemo/Debug/AppThreadingDemo-394918806#4804#114#-0#-----2@127"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/MiniCL/Debug/AppParticlesOCL_Mini-394918806#4918#127#-0#-----2@127"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/ParticlesOpenCL/Apple/Debug/AppParticlesOCL_Apple-394918806#5045#127#-0#-----2@130"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/MiniCL/Debug/AppOpenCLClothDemo_Mini-394918806#5172#130#-0#-----2@130"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple-394918806#5302#130#-0#-----2@125"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VectorAdd_OpenCL/MiniCL/Debug/AppVectorAdd_Mini-394918806#5432#125#-0#-----2@125"/bin/rm -f /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/Demos/VectorAdd_OpenCL/Apple/Debug/AppVectorAdd_Apple-394918806#5557#125#-0#-----0#0#0#--375"PhaseScriptExecution "CMake PostBuild Rules" src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Script-0DFC18D02D4743BCAD7C1F4D.sh    cd /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613    /bin/sh -c /Users/jamesfolk1/Dropbox/DEV/Libraries/bullet-2.81-rev2613/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Script-0DFC18D02D4743BCAD7C1F4D.sh36"37F2F179-D784-4E65-AED1-1491619596EF-
+
