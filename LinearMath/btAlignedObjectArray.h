@@ -505,6 +505,14 @@ protected:
 		resize (otherSize);
 		otherArray.copy(0, otherSize, m_data);
 	}
+    
+    void concatFromArray(const btAlignedObjectArray& otherArray)
+	{
+		int otherSize = otherArray.size();
+        int size = this->size();
+		resize (size + otherSize);
+		otherArray.copy(size, size + otherSize, m_data);
+	}
 
 };
 
